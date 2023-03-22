@@ -6,6 +6,10 @@
 
 ## 3. Objectives
 ### 3.1 Grant Funding
+### 3.2 Set mapping criteria for QIST capabilities
+### 3.3 Identify stacks and solutions to map
+### 3.4 Execute and publish final product
+
 
 ## 4. Software Stack
 
