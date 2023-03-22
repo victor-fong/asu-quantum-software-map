@@ -22,6 +22,8 @@
 #### 4.3a Orchestration Platforms
 #### 4.3b Methods - Pre/Post Processing Services
 ##### 4.3b.i Circuit Cutting
+##### 4.3b.i.a Gate Cutting
+##### 4.3b.i.b Wire Cutting
 ##### 4.3b.ii Entanglement Forging
 ##### 4.3b.iii Circuit Knitting
 
