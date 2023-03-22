@@ -5,20 +5,21 @@
 ## 2. Contributors
 
 ## 3. Objectives
+### 3.1 Grant Funding
 
 ## 4. Software Stack
 
-### 4.1 Developer Library
-
+### 4.1 Developer Libraries
 ### 4.2 Programming Framework
+#### 4.2a Intermediate Representations
+#### 4.3a Circuit Algorithm Libraries
 
-### 4.3 Middleware 
-
-### 4.4 Pre/Post Processing Services
-
-### 4.5 Orchestration Platforms
-
-### 4.6 Intermediate Representation
+### 4.3 Quantum Middleware 
+#### 4.3a Orchestration Platforms
+#### 4.3b Methods - Pre/Post Processing Services
+##### 4.3b.i Circuit Cutting
+##### 4.3b.ii Entanglement Forging
+##### 4.3b.iii Circuit Knitting
 
 ### 4.7 Emulation Engines
 
